@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "好大学爬虫", "好大学爬虫\好大学爬虫.pyproj", "{3213DBC4-C70D-4801-B37D-77E72B9F89C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3213DBC4-C70D-4801-B37D-77E72B9F89C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3213DBC4-C70D-4801-B37D-77E72B9F89C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {906D79CB-E107-4B93-A9A2-CD33A65C8B65}
+	EndGlobalSection
+EndGlobal
